@@ -12,7 +12,6 @@
 /.[Pp]lastic/
 /[Pp]lugins/*
 /XR/*
-/[Aa]ssets/TextMesh Pro/*
 
 # MemoryCaptures can get excessive in size.
 # They also could contain extremely sensitive data
@@ -50,7 +49,6 @@ ExportedObj/
 *.mdb
 *.opendb
 *.VC.db
-*.meta
 *.vsconfig
 *.pdf
 .png~
